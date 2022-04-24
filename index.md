@@ -58,12 +58,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Ghostpoltergeist"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Gpoltergeist" /></a></p><br><br>
 
-
-
 <br/>
 <br/>
-
-<a href="https://github.com/GhostPoltergeist/github-readme-activity-graph"><img alt="GhostPoltergeist's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GhostPoltergeist&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/></a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostPoltergeist&show_icons=true&theme=radical)
 
