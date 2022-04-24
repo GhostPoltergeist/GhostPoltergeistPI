@@ -2,11 +2,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Edselcabaluna21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Edselcabaluna21@gmail.com)](mailto:Edselcabaluna21@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-cabalunaharoldedsel@immaculada.edu.ph-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cabalunaharoldedsel@immaculada.edu.ph)](mailto:cabalunaharoldedsel@immaculada.edu.ph)
 
-<p align="center">
-  <img src="https://github.com/GhostPoltergeist/GhostPoltergeist/blob/main/as.gif" height="200" width="356"/>
-</a></p>
-
-
 ### I'm Harold Edsel Cabaluna 
 
 - 🔭 I’m currently working on Elite Cyber Developers PH
